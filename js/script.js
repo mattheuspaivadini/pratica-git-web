@@ -1,1 +1,1 @@
-console.log('Projeto carregado com sucesso!');
+console.log('Projeto carregado com sucesso!')
